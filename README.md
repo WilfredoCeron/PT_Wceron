@@ -36,24 +36,24 @@ A continuación se describen los endpoints disponibles en la API.
     ```json
 	json
     {
-  "item": {
-    "cardNumber": "6164892848967402",
-    "associatedName": "ALEXIS BARAHONA",
-    "saldoActual": 1540,
-    "saldoDisponible": 360,
-    "dateExpiration": "10/2027",
-    "cvv": 545,
-    "limit": 2500,
-    "fechadeCorte": "2024-09-14T00:00:00",
-    "cuotaMinimaPagar": 3080,
-    "montoTotalContado": 1925,
-    "interesConfigurableMinimo": 2,
-    "interesConfigurable": 0.25,
-    "interesBonificable": 385
-  },
-  "code": 1,
-  "msj": "Éxito"
-}
+		"item": {
+		"cardNumber": "6164892848967402",
+		"associatedName": "ALEXIS BARAHONA",
+		"saldoActual": 1540,
+		"saldoDisponible": 360,
+		"dateExpiration": "10/2027",
+		"cvv": 545,
+		"limit": 2500,
+		"fechadeCorte": "2024-09-14T00:00:00",
+		"cuotaMinimaPagar": 3080,
+		"montoTotalContado": 1925,
+		"interesConfigurableMinimo": 2,
+		"interesConfigurable": 0.25,
+		"interesBonificable": 385
+		},
+		"code": 1,
+		"msj": "Éxito"
+	}
     ```
 	
 - **GET /api/EndPoint/Transaction/GetHistoryTransactions**: Obtener información de una tarjeta.
