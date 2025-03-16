@@ -226,9 +226,9 @@ json
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/WilfredoCeron/PT_Wceron.git
- ```
+```
  
- 1. Clona el repositorio via SSH:
+ 2. Clona el repositorio via SSH:
    ```bash
    git clone git@github.com:WilfredoCeron/PT_Wceron.git
-   ```
+```
