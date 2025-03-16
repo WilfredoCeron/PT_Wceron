@@ -225,10 +225,10 @@ json
 ### Pasos para Ejecutar el Proyecto
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/WilfredoCeron/PT_Wceron.git
-```
+		git clone https://github.com/WilfredoCeron/PT_Wceron.git
+	```
  
  2. Clona el repositorio via SSH:
-   ```bash
-   git clone git@github.com:WilfredoCeron/PT_Wceron.git
-```
+	```bash
+		git clone git@github.com:WilfredoCeron/PT_Wceron.git
+	```
