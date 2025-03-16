@@ -34,6 +34,7 @@ A continuación se describen los endpoints disponibles en la API.
     - `CardNumber`: 6164892848967402
   - Respuesta:
     ```json
+	json
     {
   "item": {
     "cardNumber": "6164892848967402",
@@ -62,6 +63,7 @@ A continuación se describen los endpoints disponibles en la API.
 	- `Year`: 2025
   - Respuesta:
     ```json
+	json
     {
   "item": [
     {
