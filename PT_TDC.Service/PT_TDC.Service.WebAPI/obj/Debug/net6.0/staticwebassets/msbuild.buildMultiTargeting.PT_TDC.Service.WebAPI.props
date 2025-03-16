@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PT_TDC.Service.WebAPI.props" />
+</Project>

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAFAF34-8D20-4F77-B33D-C1E9489F071C}|PT_TDC.SERVICE.Domain\\PT_TDC.SERVICE.Domain.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.domain\\entities\\historyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAFAF34-8D20-4F77-B33D-C1E9489F071C}|PT_TDC.SERVICE.Domain\\PT_TDC.SERVICE.Domain.csproj|solutionrelative:pt_tdc.service.domain\\entities\\historyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.infrastructure\\commands\\createnewpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|solutionrelative:pt_tdc.service.infrastructure\\commands\\createnewpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F70CAE-FCAA-4203-80BA-F17C6668C71A}|PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.application\\usecases\\createnewbuyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F70CAE-FCAA-4203-80BA-F17C6668C71A}|PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj|solutionrelative:pt_tdc.service.application\\usecases\\createnewbuyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.infrastructure\\commands\\createnewbuycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|solutionrelative:pt_tdc.service.infrastructure\\commands\\createnewbuycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F70CAE-FCAA-4203-80BA-F17C6668C71A}|PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.application\\handler\\parameters\\getparametersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F70CAE-FCAA-4203-80BA-F17C6668C71A}|PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj|solutionrelative:pt_tdc.service.application\\handler\\parameters\\getparametersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.webapi\\controllers\\endpoint\\parameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|solutionrelative:pt_tdc.service.webapi\\controllers\\endpoint\\parameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.infrastructure\\queries\\getinfocardqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|solutionrelative:pt_tdc.service.infrastructure\\queries\\getinfocardqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.infrastructure\\queries\\getparametersqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3F2A1A-B8F3-4339-9ADF-2080C09E3FAE}|PT_TDC.Service.Infrastructure\\PT_TDC.Service.Infrastructure.csproj|solutionrelative:pt_tdc.service.infrastructure\\queries\\getparametersqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAFAF34-8D20-4F77-B33D-C1E9489F071C}|PT_TDC.SERVICE.Domain\\PT_TDC.SERVICE.Domain.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.domain\\entities\\parametersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAFAF34-8D20-4F77-B33D-C1E9489F071C}|PT_TDC.SERVICE.Domain\\PT_TDC.SERVICE.Domain.csproj|solutionrelative:pt_tdc.service.domain\\entities\\parametersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|solutionrelative:pt_tdc.service.webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|solutionrelative:pt_tdc.service.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.webapi\\controllers\\endpoint\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E490E96D-ADCE-400C-A8ED-C9B52052B6E2}|PT_TDC.Service.WebAPI\\PT_TDC.Service.WebAPI.csproj|solutionrelative:pt_tdc.service.webapi\\controllers\\endpoint\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F70CAE-FCAA-4203-80BA-F17C6668C71A}|PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj|c:\\users\\carranza\\documents\\proyectosc#\\pt_tdc\\pt_tdc.service\\pt_tdc.service.application\\features\\cardinfo\\getinfocardquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F70CAE-FCAA-4203-80BA-F17C6668C71A}|PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj|solutionrelative:pt_tdc.service.application\\features\\cardinfo\\getinfocardquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryT.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.SERVICE.Domain\\Entities\\HistoryT.cs",
+              "RelativeDocumentMoniker": "PT_TDC.SERVICE.Domain\\Entities\\HistoryT.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.SERVICE.Domain\\Entities\\HistoryT.cs",
+              "RelativeToolTip": "PT_TDC.SERVICE.Domain\\Entities\\HistoryT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:36:56.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateNewPaymentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Commands\\CreateNewPaymentCommand.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Infrastructure\\Commands\\CreateNewPaymentCommand.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Commands\\CreateNewPaymentCommand.cs",
+              "RelativeToolTip": "PT_TDC.Service.Infrastructure\\Commands\\CreateNewPaymentCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:49:56.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNewBuyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Commands\\CreateNewBuyCommand.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Infrastructure\\Commands\\CreateNewBuyCommand.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Commands\\CreateNewBuyCommand.cs",
+              "RelativeToolTip": "PT_TDC.Service.Infrastructure\\Commands\\CreateNewBuyCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:48:03.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewBuyUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\UseCases\\CreateNewBuyUseCase.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Application\\UseCases\\CreateNewBuyUseCase.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\UseCases\\CreateNewBuyUseCase.cs",
+              "RelativeToolTip": "PT_TDC.Service.Application\\UseCases\\CreateNewBuyUseCase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:34:35.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetParametersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\Handler\\Parameters\\GetParametersQueryHandler.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Application\\Handler\\Parameters\\GetParametersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\Handler\\Parameters\\GetParametersQueryHandler.cs",
+              "RelativeToolTip": "PT_TDC.Service.Application\\Handler\\Parameters\\GetParametersQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:22:27.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParametersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.SERVICE.Domain\\Entities\\ParametersResponse.cs",
+              "RelativeDocumentMoniker": "PT_TDC.SERVICE.Domain\\Entities\\ParametersResponse.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.SERVICE.Domain\\Entities\\ParametersResponse.cs",
+              "RelativeToolTip": "PT_TDC.SERVICE.Domain\\Entities\\ParametersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:19:42.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetParametersQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Queries\\GetParametersQueries.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Infrastructure\\Queries\\GetParametersQueries.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Queries\\GetParametersQueries.cs",
+              "RelativeToolTip": "PT_TDC.Service.Infrastructure\\Queries\\GetParametersQueries.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:18:53.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetInfoCardQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Queries\\GetInfoCardQueries.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Infrastructure\\Queries\\GetInfoCardQueries.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Infrastructure\\Queries\\GetInfoCardQueries.cs",
+              "RelativeToolTip": "PT_TDC.Service.Infrastructure\\Queries\\GetInfoCardQueries.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:26:44.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Program.cs",
+              "RelativeToolTip": "PT_TDC.Service.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:24:51.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParametersController.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\ParametersController.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\ParametersController.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\ParametersController.cs",
+              "RelativeToolTip": "PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\ParametersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:23:20.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Controllers\\BaseAPIController.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.WebAPI\\Controllers\\BaseAPIController.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Controllers\\BaseAPIController.cs",
+              "RelativeToolTip": "PT_TDC.Service.WebAPI\\Controllers\\BaseAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:18:58.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetInfoCardQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\Features\\CardInfo\\GetInfoCardQuery.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.Application\\Features\\CardInfo\\GetInfoCardQuery.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\Features\\CardInfo\\GetInfoCardQuery.cs",
+              "RelativeToolTip": "PT_TDC.Service.Application\\Features\\CardInfo\\GetInfoCardQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:13:56.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\CardController.cs",
+              "RelativeDocumentMoniker": "PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\CardController.cs",
+              "ToolTip": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\CardController.cs",
+              "RelativeToolTip": "PT_TDC.Service.WebAPI\\Controllers\\EndPoint\\CardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:19:12.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymmuUXBXoU7Y+CqyClHXWrmTMOCJ6mgmaHuTZR09gvovW2ohkPsPCEtz2SqkgiuBT90YryBQ6dJe60wlhom2Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carranza\\Documents\\proyectosC#\\PT_TDC\\PT_TDC.Service\\PT_TDC.Service.Application\\PT_TDC.Service.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carranza\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\Carranza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Carranza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

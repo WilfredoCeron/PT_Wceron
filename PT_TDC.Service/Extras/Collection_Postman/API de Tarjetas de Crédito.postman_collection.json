@@ -1,0 +1,256 @@
+{
+	"info": {
+		"_postman_id": "dc76f21e-2e7e-42b8-9d25-e8ed50b214ca",
+		"name": "API de Tarjetas de Crédito",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16115935"
+	},
+	"item": [
+		{
+			"name": "Obtener información de la tarjeta",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Card/GetInfoCard?CardNumber=6164892848967402",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Card",
+						"GetInfoCard"
+					],
+					"query": [
+						{
+							"key": "CardNumber",
+							"value": "6164892848967402"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetHistoryTransactions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Transaction/GetHistoryTransactions?CardNumber=6164892848967402&Month=10&Year=2025",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Transaction",
+						"GetHistoryTransactions"
+					],
+					"query": [
+						{
+							"key": "CardNumber",
+							"value": "6164892848967402"
+						},
+						{
+							"key": "Month",
+							"value": "10"
+						},
+						{
+							"key": "Year",
+							"value": "2025"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetHistoryBuy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Transaction/GetHistoryBuy?CardNumber=6164892848967402&Month=10&Year=2025",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Transaction",
+						"GetHistoryBuy"
+					],
+					"query": [
+						{
+							"key": "CardNumber",
+							"value": "6164892848967402"
+						},
+						{
+							"key": "Month",
+							"value": "10"
+						},
+						{
+							"key": "Year",
+							"value": "2025"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetHistoryPayment",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Transaction/GetHistoryPayment?CardNumber=6164892848967402&Month=10&Year=2025",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Transaction",
+						"GetHistoryPayment"
+					],
+					"query": [
+						{
+							"key": "CardNumber",
+							"value": "6164892848967402"
+						},
+						{
+							"key": "Month",
+							"value": "10"
+						},
+						{
+							"key": "Year",
+							"value": "2025"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetConfigurableParameters",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Transaction/GetHistoryPayment?CardNumber=6164892848967402&Month=10&Year=2025",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Transaction",
+						"GetHistoryPayment"
+					],
+					"query": [
+						{
+							"key": "CardNumber",
+							"value": "6164892848967402"
+						},
+						{
+							"key": "Month",
+							"value": "10"
+						},
+						{
+							"key": "Year",
+							"value": "2025"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateNewBuy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"cardNumber\": \"6164892848967402\",\r\n  \"amount\": 10,\r\n  \"description\": \"comprar el pan\",\r\n  \"dateBuy\": \"2025-03-16T03:55:30.895Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Transaction/CreateNewBuy",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Transaction",
+						"CreateNewBuy"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateNewPayment",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"cardNumber\": \"6164892848967402\",\r\n  \"amount\": 10,\r\n  \"description\": \"comprar el pan\",\r\n  \"dateBuy\": \"2025-03-16T03:55:30.895Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7177/api/EndPoint/Transaction/CreateNewBuy",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7177",
+					"path": [
+						"api",
+						"EndPoint",
+						"Transaction",
+						"CreateNewBuy"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

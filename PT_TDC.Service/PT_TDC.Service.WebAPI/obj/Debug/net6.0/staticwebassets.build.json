@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f6Ht8/QymvwjQHRdwjApiH/6IcP2miFC0t70qJFpAzM=",
+  "Source": "PT_TDC.Service.WebAPI",
+  "BasePath": "_content/PT_TDC.Service.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
