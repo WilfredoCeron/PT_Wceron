@@ -232,3 +232,7 @@ json
 	```bash
 	git clone git@github.com:WilfredoCeron/PT_Wceron.git
 	```
+	
+>[!WARNING]
+>La parte de la pagina Web no se presentara por lo que se entrega solo el servicio API
+>la base de datos y la coleccion de peticiones de POSTMAN 
