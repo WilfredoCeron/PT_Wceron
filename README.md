@@ -16,8 +16,8 @@ Requisitos Técnicos
 
 **Healthcheck**: Implementación para monitorear el estado de la aplicación.
 
-## **Patrones de Diseño 🏗️**
-Uso de SOLID, UnitOfWork, CQRS, DTOs, ViewModels, Automapper, FluentValidation, Swagger, y GlobalExceptions.
+## **Patrones de Diseño, herramientas y conceptos Utilizados 🏗️**
+Uso de SOLID, UnitOfWork, CQRS, DTOs, Automapper, FluentValidation, Swagger, y GlobalExceptions.
 
 ### Componentes Principales
 1. **API**: API REST para la interacción entre Base de datos y el FrondEnd.
@@ -65,71 +65,71 @@ A continuación se describen los endpoints disponibles en la API.
     ```json
 	json
     {
-  "item": [
-    {
-      "idTransactions": 0,
-      "cardNumber": "6164892848967402",
-      "monthT": 10,
-      "yearT": 2025,
-      "descriptionT": "Pago de intereses",
-      "amount": 50,
-      "transactionsType": null,
-      "dateTransactions": "0001-01-01T00:00:00"
-    },
-    {
-      "idTransactions": 0,
-      "cardNumber": "6164892848967402",
-      "monthT": 10,
-      "yearT": 2025,
-      "descriptionT": "Compra de Telefono",
-      "amount": 650,
-      "transactionsType": null,
-      "dateTransactions": "0001-01-01T00:00:00"
-    },
-    {
-      "idTransactions": 0,
-      "cardNumber": "6164892848967402",
-      "monthT": 10,
-      "yearT": 2025,
-      "descriptionT": "Pago total de tarjeta",
-      "amount": 500,
-      "transactionsType": null,
-      "dateTransactions": "0001-01-01T00:00:00"
-    },
-    {
-      "idTransactions": 0,
-      "cardNumber": "6164892848967402",
-      "monthT": 10,
-      "yearT": 2025,
-      "descriptionT": "Compra en Wallmart",
-      "amount": 300.76,
-      "transactionsType": null,
-      "dateTransactions": "0001-01-01T00:00:00"
-    },
-    {
-      "idTransactions": 0,
-      "cardNumber": "6164892848967402",
-      "monthT": 10,
-      "yearT": 2025,
-      "descriptionT": "Pago parcial de tarjeta",
-      "amount": 185,
-      "transactionsType": null,
-      "dateTransactions": "0001-01-01T00:00:00"
-    },
-    {
-      "idTransactions": 0,
-      "cardNumber": "6164892848967402",
-      "monthT": 10,
-      "yearT": 2025,
-      "descriptionT": "Pago de Tarjeta",
-      "amount": 110,
-      "transactionsType": null,
-      "dateTransactions": "0001-01-01T00:00:00"
-    }
-  ],
-  "code": 1,
-  "msj": "Éxito"
-}
+		"item": [
+		{
+			"idTransactions": 0,
+			"cardNumber": "6164892848967402",
+			"monthT": 10,
+			"yearT": 2025,
+			"descriptionT": "Pago de intereses",
+			"amount": 50,
+			"transactionsType": null,
+			"dateTransactions": "0001-01-01T00:00:00"
+		},
+		{
+			"idTransactions": 0,
+			"cardNumber": "6164892848967402",
+			"monthT": 10,
+			"yearT": 2025,
+			"descriptionT": "Compra de Telefono",
+			"amount": 650,
+			"transactionsType": null,
+			"dateTransactions": "0001-01-01T00:00:00"
+		},
+		{
+			"idTransactions": 0,
+			"cardNumber": "6164892848967402",
+			"monthT": 10,
+			"yearT": 2025,
+			"descriptionT": "Pago total de tarjeta",
+			"amount": 500,
+			"transactionsType": null,
+			"dateTransactions": "0001-01-01T00:00:00"
+		},
+		{
+			"idTransactions": 0,
+			"cardNumber": "6164892848967402",
+			"monthT": 10,
+			"yearT": 2025,
+			"descriptionT": "Compra en Wallmart",
+			"amount": 300.76,
+			"transactionsType": null,
+			"dateTransactions": "0001-01-01T00:00:00"
+		},
+		{
+			"idTransactions": 0,
+			"cardNumber": "6164892848967402",
+			"monthT": 10,
+			"yearT": 2025,
+			"descriptionT": "Pago parcial de tarjeta",
+			"amount": 185,
+			"transactionsType": null,
+			"dateTransactions": "0001-01-01T00:00:00"
+		},
+		{
+			"idTransactions": 0,
+			"cardNumber": "6164892848967402",
+			"monthT": 10,
+			"yearT": 2025,
+			"descriptionT": "Pago de Tarjeta",
+			"amount": 110,
+			"transactionsType": null,
+			"dateTransactions": "0001-01-01T00:00:00"
+		}
+		],
+			"code": 1,
+			"msj": "Éxito"
+	}
     ```
 
 API de Tarjetas de Crédito
@@ -140,7 +140,7 @@ Obtener información de la tarjeta
 https://localhost:7177/api/EndPoint/Card/GetInfoCard?CardNumber=6164892848967402
 ```
 
-Query Params
+Query Parameters
 CardNumber
 6164892848967402
 GET
@@ -149,7 +149,7 @@ GetHistoryTransactions
 https://localhost:7177/api/EndPoint/Transaction/GetHistoryTransactions?CardNumber=6164892848967402&Month=10&Year=2025
 ```
 
-Query Params
+Query Parameters
 CardNumber
 6164892848967402
 Month
@@ -162,7 +162,7 @@ GetHistoryBuy
 https://localhost:7177/api/EndPoint/Transaction/GetHistoryBuy?CardNumber=6164892848967402&Month=10&Year=2025
 ```
 
-Query Params
+Query Parameters
 CardNumber
 6164892848967402
 Month
@@ -175,7 +175,7 @@ GetHistoryPayment
 https://localhost:7177/api/EndPoint/Transaction/GetHistoryPayment?CardNumber=6164892848967402&Month=10&Year=2025
 ```
 
-Query Params
+Query Parameters
 CardNumber
 6164892848967402
 Month
@@ -226,3 +226,9 @@ json
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/WilfredoCeron/PT_Wceron.git
+ ```
+ 
+ 1. Clona el repositorio via SSH:
+   ```bash
+   git clone git@github.com:WilfredoCeron/PT_Wceron.git
+   ```
